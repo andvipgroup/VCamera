@@ -1,0 +1,3 @@
+[submodule "opensdk"]
+	path = opensdk
+	url = https://github.com/WaxMoon/opensdk.git
