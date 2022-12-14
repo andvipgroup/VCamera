@@ -1,0 +1,4 @@
+include ':app'
+include ':opensdk'
+
+rootProject.name = "VCamera"
