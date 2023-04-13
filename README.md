@@ -24,5 +24,3 @@ andvipgroup@gmail.com
 MultiApp:  [opensdk](https://github.com/WaxMoon/opensdk) 
 
 API Hook:  [pine](https://github.com/canyie/pine) 
-
-CameraLib: [CameraLib](https://github.com/andvipgroup/CameraLib) 
