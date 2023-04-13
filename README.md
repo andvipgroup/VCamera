@@ -13,7 +13,11 @@
 andvipgroup@gmail.com
 
 # APK Download
-[2.0.3](https://github.com/andvipgroup/VCamera/releases)
+**Latest version : 2.0.3**
+
+[Github](https://github.com/andvipgroup/VCamera/releases)
+
+[Google Play](https://play.google.com/store/apps/details?id=virtual.camera.app)
 
 
 # Refers  
