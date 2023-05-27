@@ -13,7 +13,7 @@
 andvipgroup@gmail.com
 
 # APK Download
-**Latest version : 2.0.3**
+**Latest version : 2.1.0**
 
 [Github](https://github.com/andvipgroup/VCamera/releases)
 
