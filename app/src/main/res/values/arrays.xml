@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="spinner_protect_methods">
+        <item></item>
+        <item>1. Disable Camera</item>
+        <item>2. Use Local Video</item>
+        <item>3. Use Network Video Stream</item>
+    </string-array>
+</resources>

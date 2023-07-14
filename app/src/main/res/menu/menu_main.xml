@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:id="@+id/main_setting"
+            android:title="@string/setting"
+            app:showAsAction="never" />
+
+    <item
+        android:id="@+id/killApps"
+        android:title="@string/killApps"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/open_source"
+        android:title="@string/open_source"
+        app:showAsAction="never" />
+</menu>
