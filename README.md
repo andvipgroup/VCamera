@@ -17,8 +17,8 @@ This is a powerful app that allows you to replace the camera with the video you 
 **If you are the owner of an APP,How to detect if you don’t want your APP to run in VCamera?**  
 VCamera is based on a virtual machine, so you can detect whether it is currently running in a virtual machine environment.  
 [Check Demo Code](https://github.com/andvipgroup/VCamera/tree/main/check_env_demo/code)  
-[Check Demo Apk](https://github.com/andvipgroup/VCamera/blob/main/check_env_demo/check_env_demo.apk)  <br><br>
-![Check Demo Result](https://github.com/andvipgroup/VCamera/blob/main/check_env_demo/check_result.png?raw=true)  
+[Check Env Demo Apk](https://github.com/andvipgroup/VCamera/blob/main/check_env_demo/check_env_demo.apk)  <br><br>
+![Check Env Demo Result](https://github.com/andvipgroup/VCamera/blob/main/check_env_demo/check_result.png?raw=true)  
 Here "isPathReallyExist  < 0" means it running in a virtual machine.  
 If "isPathReallyExist = 0" means it running in a real device.  
 
