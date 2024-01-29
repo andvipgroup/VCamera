@@ -40,12 +40,9 @@ If "isPathReallyExist = 0" means it running in a real device.
 andvipgroup@gmail.com
 
 # APK Download
-**Latest version : 3.4.1**  
+**Latest version : 3.5.4**  
 <p align="left">
   <a href='https://play.google.com/store/apps/details?id=virtual.camera.app'>
     <img alt='Get it on Google Play' height='90' src='https://github.com/andvipgroup/VCamera/blob/main/gp.png'/>
   </a>
 </p>
-
-# Release History
-[History](https://github.com/andvipgroup/VCamera/releases)
